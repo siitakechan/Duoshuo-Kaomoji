@@ -1,0 +1,83 @@
+/* Duoshuo */
+#ds-thread #ds-reset .ds-powered-by,.ds-post-repost{display:none!important}
+#ds-thread #ds-reset .ds-paginator{border-bottom:none!important;text-align:center!important}
+#ds-thread #ds-reset .ds-paginator a.ds-current{padding:5px 20px}
+#ds-thread #ds-reset .ds-paginator a.ds-current,#ds-thread #ds-reset .ds-paginator a:hover{background-color:#fff}
+#ds-reset .ds-gradient-bg,#ds-thread #ds-reset .ds-textarea-wrapper{background:0 0!important}
+#ds-reset .ds-like-thread-button,.ds-rounded{border:1px solid #ddd!important;background:rgba(255,255,255,1)!important;box-shadow:0 0 1px rgba(0,0,0,.1)!important}
+#ds-reset .ds-sync{display:none!important}
+#ds-thread #ds-reset .ds-post-button{position:absolute;outline:0!important;border:none!important;-webkit-border-bottom-right-radius:0!important;border-bottom-right-radius:0!important;background-color:#2e2e2e!important;background-image:none!important;box-shadow:none!important;color:#fff!important;text-shadow:none!important;font-weight:400!important;font-family:"Microsoft YaHei",Î¢ÈíÑÅºÚ,"Microsoft JhengHei",»ªÎÄÏ¸ºÚ,STHeiti,MingLiu!important}
+#ds-thread #ds-reset .ds-post-button:hover{background-color:#51aded;background-image:none;color:#FFF}
+#ds-reset .ds-avatar img,#ds-thread #ds-reset #ds-bubble,#ds-thread #ds-reset li.ds-tab a{border-radius:1px!important}
+#ds-thread #ds-reset li.ds-tab a:hover{background:#fff!important}
+#ds-thread #ds-reset li.ds-tab a.ds-current{border:none!important;background:#fff!important}
+#ds-thread #ds-reset .ds-post-self{padding-top:15px!important;padding-bottom:15px!important}
+#ds-reset .ds-avatar img{margin-left:1px!important;padding:2px!important;border-radius:32px!important;box-shadow:0 1px 3px rgba(0,0,0,.22);-webkit-transition:.8s all ease-in-out;-moz-transition:.4s all ease-in-out;-o-transition:.4s all ease-in-out;transition:.4s all ease-in-out;-ms-transition:.4s all ease-in-out}
+#ds-reset .ds-replybox .ds-avatar img{width:56px!important;height:56px!important}
+#ds-thread #ds-reset #ds-bubble{border:1px solid #ddd!important;box-shadow:none!important}
+#ds-thread #ds-reset .ds-replybox{padding-left:70px!important}
+#ds-thread #ds-reset .ds-post-self{padding-left:0!important}
+#ds-thread #ds-reset .ds-inline-replybox{margin-top:27px!important;margin-left:0!important}
+#ds-thread #ds-reset a.ds-comment-context{margin-right:5px!important;padding:2px 0 1px 3px!important;border:1px solid #E3EDF3!important;border-radius:1px!important;background:#F7FAFB!important;color:#555!important}
+#ds-thread #ds-reset li.ds-post-placeholder{padding:20px 0!important}
+body #ds-smilies-tooltip ul.ds-smilies-tabs li a{border-bottom:1px solid #e9e9e9;background-image:-webkit-gradient(linear,left 0,left 100%,from(#fff),to(#fff));background-image:-webkit-linear-gradient(top,#fff 0,#fff 100%);background-image:-moz-linear-gradient(top,#fff 0,#fff 100%);background-image:linear-gradient(to bottom,#fff 0,#fff 100%)}
+body #ds-smilies-tooltip{margin-bottom:1em!important;border:0!important;box-shadow:0 0 15px rgba(0,0,0,.15)!important}
+#ds-smilies-tooltip .ds-smilies-container{height:180px!important}
+#ds-smilies-tooltip ul.ds-smilies-tabs{height:180px!important}
+#ds-reset ul.ds-children .ds-avatar img{width:48px!important;height:48px!important}
+#ds-thread #ds-reset .ds-comment-body p{margin:10px!important}
+#ds-reset button{border:1px solid #ddd!important;background:#fff!important;box-shadow:0 0 1px rgba(0,0,0,.2)!important}
+#ds-reset button:hover{border:1px solid #ddd!important;background:#ddd!important;box-shadow:0 0 1px rgba(0,0,0,.2)!important}
+#ds-thread #ds-reset .ds-user-name{color:#0c94de!important}
+#ds-thread #ds-reset .ds-comment-header{margin-left:10px!important}
+#ds-thread #ds-reset .ds-login-buttons .ds-more-services{color:#777!important}
+#ds-thread #ds-reset .ds-login-buttons .ds-more-services:hover{color:#333!important}
+#ds-thread #ds-reset ul.ds-comments-tabs .ds-highlight{margin:0 3px 0 0!important}
+#ds-thread #ds-reset .ds-time{margin-left:10px!important}
+#ds-thread.ds-narrow #ds-reset .ds-comments .ds-avatar img{width:35px!important;height:35px!important}
+#ds-thread #ds-reset .ds-inline-replybox .ds-avatar img{width:50px!important;height:50px!important}
+#ds-thread.ds-narrow #ds-reset .ds-comments .ds-inline-replybox .ds-avatar img{width:50px!important;height:50px!important}
+#ds-thread #ds-reset .ds-post-options{margin-top:-1px;border:0;border-right:0;-webkit-border-bottom-left-radius:0;border-bottom-left-radius:0;background:0 0}
+#ds-reset .ds-rounded-top{border-radius:1px 1px 0 0!important}
+#ds-notify{border-radius:2px!important}
+#ds-thread #ds-reset #ds-hot-posts{padding:0 12px}
+#ds-thread #ds-reset .ds-header{padding:0}
+#ds-thread #ds-reset .ds-textarea-wrapper textarea{font-size:18px!important;line-height:20px!important}
+#ds-thread #ds-reset .ds-textarea-wrapper textarea, #ds-thread #ds-reset .ds-textarea-wrapper .ds-hidden-text{font-family:"Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", "Times New Roman", serif;}
+#ds-thread #ds-reset .ds-comment-body{padding-left:70px!important;-webkit-transition-delay:initial;-webkit-transition-timing-function:initial;-webkit-transition-duration:.4s;-webkit-transition-property:all}
+#ds-thread #ds-reset .ds-sort a.ds-current,#ds-thread #ds-reset .ds-sort a:active{color:#434592!important}
+.ds-post-self:hover .ds-avatar img{-webkit-transform:rotateX(360deg);-moz-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg);-ms-transform:rotate(360deg)}
+#ds-thread #ds-reset .ds-comments{border-bottom:none!important}
+#ds-thread #ds-reset .ds-login-buttons .ds-service-list li{height:28px}
+#ds-thread #ds-reset .ds-service-list a{padding:5px;border:1px solid;border-radius:3px;background:0 0;text-align:center}
+#ds-thread #ds-reset .ds-service-list a:hover{background:#666;color:#fff}
+#ds-thread #ds-reset .ds-service-list .ds-weibo{border-color:#fc9b00;color:#fc9b00}
+#ds-thread #ds-reset .ds-service-list .ds-weibo:hover{background:#fc9b00}
+#ds-thread #ds-reset .ds-service-list .ds-qq{border-color:#60a3ec;color:#60a3ec}
+#ds-thread #ds-reset .ds-service-list .ds-qq:hover{background:#60a3ec}
+#ds-thread #ds-reset .ds-service-list .ds-renren{border-color:#2e7ac4;color:#2e7ac4}
+#ds-thread #ds-reset .ds-service-list .ds-renren:hover{background:#2e7ac4}
+#ds-thread #ds-reset .ds-service-list .ds-douban{border-color:#37994c;color:#37994c}
+#ds-thread #ds-reset .ds-service-list .ds-douban:hover{background:#37994c}
+#ds-thread #ds-reset .ds-service-list .ds-kaixin{border-color:#fef20d;color:#fef20d}
+#ds-thread #ds-reset .ds-service-list .ds-kaixin:hover{background:#fef20d}
+#ds-thread #ds-reset .ds-service-list .ds-netease{border-color:red;color:red}
+#ds-thread #ds-reset .ds-service-list .ds-netease:hover{background:red}
+#ds-thread #ds-reset .ds-service-list .ds-sohu{border-color:#ffcb05;color:#ffcb05}
+#ds-thread #ds-reset .ds-service-list .ds-sohu:hover{background:#ffcb05}
+#ds-thread #ds-reset .ds-service-list .ds-baidu{border-color:#2831e0;color:#2831e0}
+#ds-thread #ds-reset .ds-service-list .ds-baidu:hover{background:#2831e0}
+#ds-thread #ds-reset .ds-service-list .ds-google{border-color:#166bec;color:#166bec}
+#ds-thread #ds-reset .ds-service-list .ds-google:hover{background:#166bec}
+#ds-thread #ds-reset .ds-service-list .ds-weixin{border-color:#00ce0d;color:#00ce0d}
+#ds-thread #ds-reset .ds-service-list .ds-weixin:hover{background:#00ce0d}
+#ds-thread #ds-reset .ds-service-list .ds-more-services{border:none}
+#ds-thread #ds-reset .ds-service-list .ds-more-services:hover{background:0 0}
+#ds-thread #ds-reset .ds-login-buttons p{display:none!important}
+#ds-thread #ds-reset .ds-sort a{padding:12px 12px}
+#ds-thread #ds-reset .ds-sort a.ds-current,#ds-thread #ds-reset .ds-sort a:active{border-bottom:1px solid #00a1d6}
+#ds-thread #ds-reset li.ds-tab a.ds-current{padding:12px 12px;border-bottom:1px solid #00a1d6!important}
+#ds-thread #ds-reset .ds-textarea-wrapper{position:relative;overflow:hidden;padding-right:20px;height:120px;border:1px solid #e2e2e2!important;background:url(http://i2.buimg.com/d907c8a4e8c6610c.gif) right center no-repeat!important}
+#ds-thread #ds-reset .ds-comment-body blockquote{margin:10px;padding:10px;border:1px solid #eaeaea;color:red}
+#ds-thread #ds-reset .ds-toolbar-buttons{width:140px}
+#ds-reset .ds-avatar,#ds-reset .ds-rounded,#ds-thread #ds-reset #ds-bubble,#ds-thread #ds-reset li.ds-tab a.ds-current{background:rgba(255, 255, 255, 1)!important}
