@@ -42,12 +42,12 @@ $(function() {
  })(jQuery);
 });
 $(document).ready(function () {
-	$(".biaoqing_box a").live("click", function () {
+	$(".ds-thread").delegate(".biaoqing_box a","click",function(){
 		$(this).parent(".biaoqing_box").toggleClass("open");
 		$(this).parent(".biaoqing_box").next("a").toggleClass("open");
 		$(this).parents("form").find("textarea").insertContent($(this).text());
 	});
-	$(".ywz-wrapper > a").live("click", function(){
+	$(".ds-thread").delegate(".ywz","click",function(){
 		$(this).toggleClass("open");
 		$(this).prev("div").toggleClass("open");
 	});
